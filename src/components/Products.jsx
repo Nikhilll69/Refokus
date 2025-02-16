@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Product from "./Product";
-import Button from "./button";
+import Button from "./Button";
 import { motion } from "framer-motion";
 import arqitel from "../assets/arqitel.mp4";
 import ttr from "../assets/ttr.mp4";
